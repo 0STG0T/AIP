@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "safe_input.c"
 
-#define N 2 // Задаем размер матрицы
+#define N 1 // Задаем размер матрицы
 
 
 // функция ввода матрицы
